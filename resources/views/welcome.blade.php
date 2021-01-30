@@ -123,7 +123,7 @@
 <body>
     <div class="container">
         <div class="logo">
-            <img src="assets/img/logo-tmp.png" alt="GTM logo">
+            <img src="images/220px-Avatar_2_logo.jpg" alt="GTM logo">
         </div>
         <h1 id="headline">New Era will live in:</h1>
         <div id="countdown">
