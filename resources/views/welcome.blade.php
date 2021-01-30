@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Meta FX Global - Coming Soon</title>
+    <title>GTM - Coming Soon</title>
     <meta name="description" content="">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link
@@ -123,7 +123,7 @@
 <body>
     <div class="container">
         <div class="logo">
-            <img src="assets/img/logo-tmp.png" alt="MetaFX Global logo">
+            <img src="assets/img/logo-tmp.png" alt="GTM logo">
         </div>
         <h1 id="headline">New Era will live in:</h1>
         <div id="countdown">
@@ -145,13 +145,12 @@
         For updates, Follow us at
         <br>
         <br>
-        <a href="https://www.facebook.com/Meta-FX-Global-105678778185232" target="_blank" class="fb"><i class="fab fa-facebook-f"></i></a>
-        <a href="https://www.instagram.com/metafx9/" target="_blank" class="ins"><i class="fab fa-instagram"></i></a>
-        <a href="https://www.youtube.com/channel/UCrGZSnmV8UmP5HshGYhJkzw/" target="_blank" class="yt"><i class="fab fa-youtube"></i></a>
-        <a href="https://twitter.com/MetaFX3" target="_blank" class="tw"><i class="fab fa-twitter"></i></a>
-        <a href="https://www.pinterest.com/metafxglobaldotcom/_saved/" target="_blank" class="pi"><i class="fab fa-pinterest"></i></a>
-        <a href="https://metafx.tumblr.com" target="_blank" class="tm"><i class="fab fa-tumblr"></i></a>
-        <!-- <a href="https://www.reddit.com/user/MetaFXglobal" target="_blank" class="rd"><i class="fab fa-reddit"></i></a> -->
+        <a href="" target="_blank" class="fb"><i class="fab fa-facebook-f"></i></a>
+        <a href="" target="_blank" class="ins"><i class="fab fa-instagram"></i></a>
+        <a href="" target="_blank" class="yt"><i class="fab fa-youtube"></i></a>
+        <a href="" target="_blank" class="tw"><i class="fab fa-twitter"></i></a>
+        <a href="" target="_blank" class="pi"><i class="fab fa-pinterest"></i></a>
+        <a href="" target="_blank" class="tm"><i class="fab fa-tumblr"></i></a>
     </div>
         
     </div>
